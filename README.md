@@ -1,7 +1,7 @@
 # Tugas-UAS-Framework
 Website Sewa Internet Rumahan
-FE - React js
-BE - Laravel 8 Sanctum
+- FE - React js
+- BE - Laravel 8 Sanctum
 
 ## Bio :
 Kelompok 3
